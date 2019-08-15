@@ -1,0 +1,46 @@
+$colors: #1ABC9C, #16A085, #2ECC71, #27AE60, #3498DB, #9B59B6, #F1C40F, #F39C12, #E74C3C, #7F8C8D;
+$repeat: 20;
+
+#country-list {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    .country {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 25%;
+        height: 150px;
+        cursor: pointer;
+        margin: 1rem;
+
+        &:hover {
+            opacity: .8;
+        }
+
+        @for $i from 1 through $repeat {
+            &:nth-child(#{length($colors)}n+#{$i}) {
+                $color: lighten(nth($colors, random(length($colors))), 20%);
+                background: $color;
+                color: darken($color, 42%);
+            }
+        }
+
+        .code {
+            font-size: 2rem;
+        }
+
+        .name {
+            font-size: 1.25rem;
+        }
+
+        .languages {
+            font-style: italic;
+            font-size: .9rem;
+        }
+    }
+}

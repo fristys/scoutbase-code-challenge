@@ -1,0 +1,28 @@
+.App {
+  nav {
+    margin-bottom: 1rem;
+
+    ul {
+      background: #eee;
+      display: flex;
+      margin: 0;
+      align-items: center;
+
+      li {
+        list-style: none;
+
+        a, a:visited {
+          display: block;
+          padding: 1rem;
+          color: #333;
+          text-decoration: none;
+
+          &:hover, &.active {
+            background: #333;
+            color: #FFF;
+          }
+        }
+      }
+    }
+  }
+}
