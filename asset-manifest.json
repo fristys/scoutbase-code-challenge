@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/scoutbase-code-challenge/static/css/main.645dca33.chunk.css",
+    "main.css": "/scoutbase-code-challenge/static/css/main.a254fbe8.chunk.css",
     "main.js": "/scoutbase-code-challenge/static/js/main.fc8db386.chunk.js",
     "main.js.map": "/scoutbase-code-challenge/static/js/main.fc8db386.chunk.js.map",
     "runtime~main.js": "/scoutbase-code-challenge/static/js/runtime~main.882672c0.js",
@@ -8,8 +8,8 @@
     "static/js/2.4d5a556b.chunk.js": "/scoutbase-code-challenge/static/js/2.4d5a556b.chunk.js",
     "static/js/2.4d5a556b.chunk.js.map": "/scoutbase-code-challenge/static/js/2.4d5a556b.chunk.js.map",
     "index.html": "/scoutbase-code-challenge/index.html",
-    "precache-manifest.4e46c52868e88ba38fdce54a2e1177a4.js": "/scoutbase-code-challenge/precache-manifest.4e46c52868e88ba38fdce54a2e1177a4.js",
+    "precache-manifest.67b1d9b0c1404fd821e4a001e957f01e.js": "/scoutbase-code-challenge/precache-manifest.67b1d9b0c1404fd821e4a001e957f01e.js",
     "service-worker.js": "/scoutbase-code-challenge/service-worker.js",
-    "static/css/main.645dca33.chunk.css.map": "/scoutbase-code-challenge/static/css/main.645dca33.chunk.css.map"
+    "static/css/main.a254fbe8.chunk.css.map": "/scoutbase-code-challenge/static/css/main.a254fbe8.chunk.css.map"
   }
 }

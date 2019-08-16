@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a3a6675fd196d0c14a367707423e051",
+    "revision": "8a0d8d412cef2d35040e8f1dfd19e8ce",
     "url": "/scoutbase-code-challenge/index.html"
   },
   {
-    "revision": "b73feefc83c9362b333f",
-    "url": "/scoutbase-code-challenge/static/css/main.645dca33.chunk.css"
+    "revision": "b3b935b3c8b0e91f9e2e",
+    "url": "/scoutbase-code-challenge/static/css/main.a254fbe8.chunk.css"
   },
   {
     "revision": "2420831542929bf34001",
     "url": "/scoutbase-code-challenge/static/js/2.4d5a556b.chunk.js"
   },
   {
-    "revision": "b73feefc83c9362b333f",
+    "revision": "b3b935b3c8b0e91f9e2e",
     "url": "/scoutbase-code-challenge/static/js/main.fc8db386.chunk.js"
   },
   {
