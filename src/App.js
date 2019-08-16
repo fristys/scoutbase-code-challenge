@@ -1,4 +1,5 @@
 import React from 'react';
+// Use HashRouter for GH pages deployment
 import { BrowserRouter as Router, NavLink , Route, Switch } from 'react-router-dom';
 
 import ApolloClient from 'apollo-boost';
