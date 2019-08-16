@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/scoutbase-code-challenge/precache-manifest.67b1d9b0c1404fd821e4a001e957f01e.js"
+  "/scoutbase-code-challenge/precache-manifest.639b8ed7c676688c61a4409d0c403ffb.js"
 );
 
 self.addEventListener('message', (event) => {
