@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Country component Renders without crashing 1`] = `ShallowWrapper {}`;
