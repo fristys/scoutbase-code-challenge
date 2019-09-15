@@ -2,7 +2,7 @@ import React from 'react';
 
 import './Home.scss';
 
-export function Home() {
+export default function Home() {
   return (
     <div id="home-page">
       <h2>Front-end task of Code Challenge for Scoutbase</h2>
@@ -20,7 +20,6 @@ export function Home() {
       <p>Preferred libraries:</p>
 
       <ol>
-        <li>`styled-components` for styling</li>
         <li>`apollo-client` for consuming GraphQL API</li>
         <li>`react-router` or any alternative to implement routing</li>
       </ol>

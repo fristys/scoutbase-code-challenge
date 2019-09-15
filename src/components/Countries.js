@@ -9,7 +9,7 @@ import { Country } from './Country';
 
 import './Countries.scss';
 
-export function Countries({ history }) {
+export default function Countries({ history }) {
   const { loading, error, data } = useQuery(gql`
     {
       countries {

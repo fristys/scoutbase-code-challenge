@@ -1,19 +1,12 @@
 import React from 'react';
 
-import {
-  // Use HashRouter for GH pages deployment
-  BrowserRouter as Router,
-  NavLink,
-  Route,
-  Switch
-} from 'react-router-dom';
+// Use HashRouter for GH pages deployment
+import { BrowserRouter as Router, NavLink } from 'react-router-dom';
 
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from '@apollo/react-hooks';
 
-import { Home } from './components/Home';
-import { Countries } from './components/Countries';
-import { CountryDetails } from './components/CountryDetails';
+import { Routes } from './Routes';
 
 import './App.scss';
 
@@ -43,11 +36,7 @@ function App() {
           </nav>
         </div>
 
-        <Switch>
-          <Route exact path="/" component={Home} />
-          <Route path="/countries/:code" component={CountryDetails} />
-          <Route path="/countries" component={Countries} />
-        </Switch>
+        <Routes />
       </ApolloProvider>
     </Router>
   );

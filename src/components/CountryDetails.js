@@ -9,7 +9,7 @@ import { CountryDetail } from './CountryDetail';
 
 import './CountryDetails.scss';
 
-export function CountryDetails({ match }) {
+export default function CountryDetails({ match }) {
   const { loading, error, data } = useQuery(gql`
     {
         country(code: "${match.params.code}") {
