@@ -5,9 +5,8 @@ This task is for demonstrating your understanding of HTML, CSS, Javascript, Reac
 If you’re doing the front-end only, you must use the https://countries.trevorblades.com endpoint for GraphQL API.
 
 Preferred libraries:
-  1. `styled-components` for styling
-  2. `apollo-client` for consuming GraphQL API
-  3. `react-router` or any alternative to implement routing
+  1. `apollo-client` for consuming GraphQL API
+  2. `react-router` or any alternative to implement routing
 
 Instructions:
 
