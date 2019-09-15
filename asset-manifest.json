@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/scoutbase-code-challenge/static/css/main.ee6ec14a.chunk.css",
-    "main.js": "/scoutbase-code-challenge/static/js/main.82b2318d.chunk.js",
-    "main.js.map": "/scoutbase-code-challenge/static/js/main.82b2318d.chunk.js.map",
-    "runtime~main.js": "/scoutbase-code-challenge/static/js/runtime~main.882672c0.js",
-    "runtime~main.js.map": "/scoutbase-code-challenge/static/js/runtime~main.882672c0.js.map",
-    "static/js/2.fe93828f.chunk.js": "/scoutbase-code-challenge/static/js/2.fe93828f.chunk.js",
-    "static/js/2.fe93828f.chunk.js.map": "/scoutbase-code-challenge/static/js/2.fe93828f.chunk.js.map",
+    "main.css": "/scoutbase-code-challenge/static/css/main.49e2f42d.chunk.css",
+    "main.js": "/scoutbase-code-challenge/static/js/main.b9177693.chunk.js",
+    "main.js.map": "/scoutbase-code-challenge/static/js/main.b9177693.chunk.js.map",
+    "runtime~main.js": "/scoutbase-code-challenge/static/js/runtime~main.77d1d152.js",
+    "runtime~main.js.map": "/scoutbase-code-challenge/static/js/runtime~main.77d1d152.js.map",
+    "static/js/2.a49a9dcb.chunk.js": "/scoutbase-code-challenge/static/js/2.a49a9dcb.chunk.js",
+    "static/js/2.a49a9dcb.chunk.js.map": "/scoutbase-code-challenge/static/js/2.a49a9dcb.chunk.js.map",
+    "static/css/3.3255ba00.chunk.css": "/scoutbase-code-challenge/static/css/3.3255ba00.chunk.css",
+    "static/js/3.2f51b9ee.chunk.js": "/scoutbase-code-challenge/static/js/3.2f51b9ee.chunk.js",
+    "static/js/3.2f51b9ee.chunk.js.map": "/scoutbase-code-challenge/static/js/3.2f51b9ee.chunk.js.map",
+    "static/css/4.e204bf0f.chunk.css": "/scoutbase-code-challenge/static/css/4.e204bf0f.chunk.css",
+    "static/js/4.043d8f91.chunk.js": "/scoutbase-code-challenge/static/js/4.043d8f91.chunk.js",
+    "static/js/4.043d8f91.chunk.js.map": "/scoutbase-code-challenge/static/js/4.043d8f91.chunk.js.map",
+    "static/css/5.1513a1e1.chunk.css": "/scoutbase-code-challenge/static/css/5.1513a1e1.chunk.css",
+    "static/js/5.9f90a06b.chunk.js": "/scoutbase-code-challenge/static/js/5.9f90a06b.chunk.js",
+    "static/js/5.9f90a06b.chunk.js.map": "/scoutbase-code-challenge/static/js/5.9f90a06b.chunk.js.map",
     "index.html": "/scoutbase-code-challenge/index.html",
-    "precache-manifest.3dace22d96ab070e2e8ead45043aa515.js": "/scoutbase-code-challenge/precache-manifest.3dace22d96ab070e2e8ead45043aa515.js",
+    "precache-manifest.434f2e72962da4e027e78b83c55361c7.js": "/scoutbase-code-challenge/precache-manifest.434f2e72962da4e027e78b83c55361c7.js",
     "service-worker.js": "/scoutbase-code-challenge/service-worker.js",
-    "static/css/main.ee6ec14a.chunk.css.map": "/scoutbase-code-challenge/static/css/main.ee6ec14a.chunk.css.map"
+    "static/css/3.3255ba00.chunk.css.map": "/scoutbase-code-challenge/static/css/3.3255ba00.chunk.css.map",
+    "static/css/4.e204bf0f.chunk.css.map": "/scoutbase-code-challenge/static/css/4.e204bf0f.chunk.css.map",
+    "static/css/5.1513a1e1.chunk.css.map": "/scoutbase-code-challenge/static/css/5.1513a1e1.chunk.css.map",
+    "static/css/main.49e2f42d.chunk.css.map": "/scoutbase-code-challenge/static/css/main.49e2f42d.chunk.css.map"
   }
 }
